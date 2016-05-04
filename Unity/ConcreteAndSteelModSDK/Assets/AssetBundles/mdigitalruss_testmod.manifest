@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 390507167
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4bc11a50eed09675775da9bffd7b8f69
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 87ffbfcda0bc00b9d4ad32f1ea470faf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1739185998, guid: 6e3cf7a06c6f86549858fa1f7d300e52, type: 3}
+- Class: 114
+  Script: {fileID: 372142912, guid: 870353891bb340e2b2a9c8707e7419ba, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/mdigitalruss_testmod_2.prefab
+- Assets/mdigitalruss_testmod.prefab
+Dependencies: []
